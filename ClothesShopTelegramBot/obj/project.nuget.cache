@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XiaLFU5KtVW4fPfg2mm6p7gnKts1e/k28jKPAJRsovI2w1P7TBvv7CniHGTDiUfAK5st8J7felj86mnuxZiPlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\ClothesShopTelegramBot\\ClothesShopTelegramBot\\ClothesShopTelegramBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\npgsql\\7.0.0-preview.7\\npgsql.7.0.0-preview.7.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
